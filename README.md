@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matveyuchik
-- 👀 I’m interested in hardcore C++ programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in hardcore С/C++ programming
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me: discord matveyuchik
 - 😄 Pronouns: he/him
