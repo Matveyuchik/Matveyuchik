@@ -1,5 +1,3 @@
-how to be very sigma. 
-1. became sigma.
-2. ???
-3. ß
-4. Profit
+I like to code.
+I have issues with mental health.
+Please, do not judge me for my existence.
